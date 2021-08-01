@@ -1,9 +1,9 @@
-title: the Simplex theme
-logo_img: /assets/img/icons/golasblog_logo.svg
+title: 소설같은 컴퓨터 공학
+logo_img: /assets/img/icons/blog_logo.svg
 favicon: /assets/favicon.ico
-description: description
+description: 소설 같이 편하게 읽을 수 있는 머신러닝/딥러닝에 대한 글을 올리는 블로그입니다.
 global_tags: jekyll theme simplex golasblog responsive html5
-copyright: © Golasowski 2021
+copyright: © Jiwoong Shin 2021
 
 sass:
     style: compressed

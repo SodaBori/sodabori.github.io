@@ -1,0 +1,7 @@
+- title: Deep Learning #Menu item title.
+  url: category/deep_learning.html #Menu item url.
+  hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
+  subnav: #Subnav. See note [2].
+      - title: Neural Architecture Search #Submenu item title.
+        url: category/neural_architecture_search.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
